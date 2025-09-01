@@ -1,5 +1,6 @@
-scikit-learn
+streamlit
 matplotlib
 pandas
 numpy
-streamlit
+scikit-learn
+xgboost
